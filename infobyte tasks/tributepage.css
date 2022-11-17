@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#nav {
+    padding: 15px 20px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    height: 38px;
+    color: white;
+    background-color: rgba(17, 79, 129, 0.897);
+}
+
+.div {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#body {
+
+    display: flex;
+}
+
+#para {
+    padding-top: 30px;
+    color: rgba(4, 58, 102, 0.979);
+}
+
+#p {
+
+    color: rgba(9, 86, 148, 0.979);
+    padding-right: 17px;
+}
+
+#about {
+    display: flex;
+    padding-top: 30px;
+    color: rgba(4, 58, 102, 0.979);
+
+}
+
+footer {
+    background-color: rgba(17, 79, 129, 0.897);
+    font-style: italic;
+    margin-top: -55px;
+    height: 50PX;
+}
